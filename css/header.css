@@ -1,0 +1,30 @@
+.header {
+  margin-bottom: 38px;
+  color: #121212;
+  position: relative;
+}
+
+.header-container {
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-menu__list {
+  display: flex;
+  column-gap: 60px;
+}
+.nav-menu__link:hover {
+  opacity: 0.5;
+  border-bottom: 1px solid rgb(0, 0, 0, 0.5);
+}
+
+@media (max-width: 1199px) {
+  .nav-menu {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+}
