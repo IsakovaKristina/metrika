@@ -1,14 +1,14 @@
-@import url(/css/about.css);
-@import url(/css/contacts.css);
-@import url(/css/footer.css);
-@import url(/css/header.css);
-@import url(/css/projects.css);
-@import url(/css/services.css);
-@import url(/css/feedback.css);
-@import url(/css/buttons.css);
-@import url(/css/gallery.css);
-@import url(/css/popup.css);
-@import url(/css/burger.css);
+@import url(../css/about.css);
+@import url(../css/contacts.css);
+@import url(../css/footer.css);
+@import url(../css/header.css);
+@import url(../css/projects.css);
+@import url(../css/services.css);
+@import url(../css/feedback.css);
+@import url(../css/buttons.css);
+@import url(../css/gallery.css);
+@import url(../css/popup.css);
+@import url(../css/burger.css);
 
 body {
   font-family: "Manrope", sans-serif;
